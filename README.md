@@ -1,3 +1,12 @@
+<!--
+<a href="https://techforpalestine.org/learn-more">
+  <img
+    src="https://raw.githubusercontent.com/Ero-gamer/support-palestine-banner/master/banner-support.svg"
+    alt="Tech For Palestine"
+    width="100%"
+  />
+</a>
+-->
 ### Bonjour 👾,
 I am Mouad, a full stack developer focused on building useful digital products with clean user experiences.
 
